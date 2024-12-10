@@ -14,7 +14,7 @@ For the analysis, two files were used
 * **Functional MRI data**: Contains olfactory brain activation.
 * **Structural MRI data**: Contains a high-resolution MRI scan of the human brain's anatomy (used to plot the activation on).
 
-Both files can be easily downloaded from the above-mentioned website, in the sections olfactory: uniformity test, and anatomical.
+Both files can be downloaded from the Data Source, in the sections olfactory: uniformity test, and anatomical.
 * Main Notebook: home_assignment.ipynb
 
 # List of Packages
